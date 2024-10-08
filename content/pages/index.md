@@ -188,7 +188,7 @@ sections:
         textAlign: left
 backgroundImage:
   type: BackgroundImage
-  backgroundSize: contain
+  backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
