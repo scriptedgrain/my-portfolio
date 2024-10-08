@@ -188,7 +188,7 @@ sections:
         textAlign: left
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/bg.jpg
   backgroundSize: contain
   backgroundPosition: center
   backgroundRepeat: no-repeat
