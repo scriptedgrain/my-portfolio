@@ -257,18 +257,15 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Educação:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **UFRGS - 2018-2023**
 
-          * ba computer sciense at a semi fancy school
+          *   Geologia
 
-          **2014**
+          **UNISINOS - 2023-2026**
 
-          * react certificate somewhere
+          *   Análise e Desenvolvimento de Sistemas
 
-          **2011**
-
-          * my highschool
         styles:
           self:
             textAlign: left
