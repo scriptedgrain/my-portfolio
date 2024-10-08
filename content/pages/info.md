@@ -215,8 +215,11 @@ sections:
     variant: variant-a
     subtitle: 'Contact:'
     colors: colors-f
-    text: |
+    text: |+
       <luccamaiarosa@gmail.com>
+
+      [WhatsApp](https://wa.me/qr/PABAUEEXRVV3H1)
+
   - type: DividerSection
     styles:
       self:
