@@ -67,7 +67,8 @@ sections:
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/logo2.svg
+        url: >-
+          /images/218094510_1487113711640918_4386963637737645539_n-removebg-preview.png
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
