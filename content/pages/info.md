@@ -191,7 +191,7 @@ sections:
       - type: Label
         label: HTML
       - type: Label
-        label: Netlify
+        label: Scrum
       - type: Label
         label: Pancakes
       - type: Label
