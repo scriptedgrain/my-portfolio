@@ -192,5 +192,5 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
-  url: /images/featured-Image4.jpg
+  url: /images/bg1.jpg
 ---
