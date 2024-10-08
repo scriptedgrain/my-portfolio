@@ -192,5 +192,5 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
-  url: /images/bg1.jpg
+  url: /images/arte-arte-abstrata-arte-contemporanea-arte-moderna-2860804.jpg
 ---
