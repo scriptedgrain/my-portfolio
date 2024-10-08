@@ -195,7 +195,7 @@ sections:
       - type: Label
         label: GitHub
       - type: Label
-        label: C++
+        label: Scrum
       - type: Label
         label: Swift
   - type: DividerSection
