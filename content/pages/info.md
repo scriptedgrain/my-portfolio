@@ -196,8 +196,6 @@ sections:
         label: GitHub
       - type: Label
         label: Scrum
-      - type: Label
-        label: Swift
   - type: DividerSection
     styles:
       self:
