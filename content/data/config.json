@@ -67,7 +67,7 @@
             "address": "Rua Capitão Padilha 71, Porto Alegre, RS, 91710100",
             "addressAltText": "Meu endereço"
         },
-        "copyrightText": "",
+        "copyrightText": "Powered by [NETLIFY](https://www.netlify.com/#:~:text=Netlify%20Composable%20Web%20Platform.%20Streamlined%20orchestration,)\n",
         "styles": {
             "self": {
                 "width": "narrow",
