@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: Projects
+title: Lucca Rosa - Projetos
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
