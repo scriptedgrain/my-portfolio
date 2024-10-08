@@ -234,9 +234,7 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experiências:'
-        text: |
-          #### **Geologia**
-
+        text: |+
           **Iniciação Científica - 09/20 - 08/21**
 
           *   Bolsista
@@ -248,6 +246,7 @@ sections:
           **Secretaria de Obras Públicas do Estado - 06/22 - 02/23**
 
           *   Estagiário
+
         styles:
           self:
             textAlign: left
