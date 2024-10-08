@@ -189,7 +189,7 @@ sections:
       - type: Label
         label: CSS
       - type: Label
-        label: Next.js
+        label: HTML
       - type: Label
         label: Netlify
       - type: Label
