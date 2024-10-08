@@ -124,7 +124,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/scriptedgran'
+            url: 'https://github.com/scriptedgrain'
         styles:
           self:
             textAlign: left
