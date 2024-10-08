@@ -12,6 +12,16 @@
                 "type": "Link",
                 "label": "sobre",
                 "url": "/info"
+            },
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "/projects",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "socialLinks": [
