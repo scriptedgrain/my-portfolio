@@ -191,7 +191,7 @@ sections:
       - type: Label
         label: HTML
       - type: Label
-        label: Scrum
+        label: Git
       - type: Label
         label: Pancakes
       - type: Label
