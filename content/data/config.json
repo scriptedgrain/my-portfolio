@@ -16,7 +16,7 @@
             {
                 "type": "Link",
                 "label": "projetos",
-                "altText": "",
+                "altText": "projetos",
                 "url": "/projects",
                 "showIcon": false,
                 "icon": "arrowRight",
