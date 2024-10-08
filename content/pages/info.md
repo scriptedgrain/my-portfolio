@@ -132,7 +132,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: linkedin.com/in/lucca-maia/
+            url: www.linkedin.com/in/lucca-maia/
         styles:
           self:
             textAlign: left
