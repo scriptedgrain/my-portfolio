@@ -235,21 +235,19 @@ sections:
       - type: FeaturedItem
         subtitle: 'Experiências:'
         text: |
-          **2018-2021**
+          #### **Geologia**
 
-          *   fullstack at this startup
+          **Iniciação Científica - 09/20 - 08/21**
 
-          **2015**
+          *   Bolsista
 
-          *   senior front-end at this place
+          **Empresa júnior PetraJr - 02/22 - 08/22**
 
-          **2013**
+          *   Consultor Comercial
 
-          *   intern developer at a big company
+          **Secretaria de Obras Públicas do Estado - 06/22 - 02/23**
 
-          **2011**
-
-          *   flipping burgers
+          *   Estagiário
         styles:
           self:
             textAlign: left
