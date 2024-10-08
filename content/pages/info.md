@@ -233,7 +233,7 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        subtitle: 'Experience:'
+        subtitle: 'Experiências:'
         text: |
           **2018-2021**
 
