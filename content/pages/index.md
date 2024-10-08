@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: Lucca
 colors: colors-a
 sections:
   - elementId: ''
