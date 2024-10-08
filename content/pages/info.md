@@ -185,7 +185,7 @@ sections:
       - type: Label
         label: Java
       - type: Label
-        label: React
+        label: JavaScript
       - type: Label
         label: Microsoft Office
       - type: Label
