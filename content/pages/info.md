@@ -63,7 +63,7 @@ sections:
     subtitle: 'Eu trabalhei nessas empresas:'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/OIP (1).jpeg
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
