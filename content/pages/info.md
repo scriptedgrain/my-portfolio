@@ -196,6 +196,9 @@ sections:
         label: GitHub
       - type: Label
         label: Scrum
+      - type: Label
+        label: Spring Básico
+        url: ''
   - type: DividerSection
     styles:
       self:
