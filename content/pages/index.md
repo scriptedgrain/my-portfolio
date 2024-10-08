@@ -6,7 +6,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'Eu sou um desenvolvedor back-end, em busca de'
+    title: 'Eu sou um desenvolvedor back-end, com enfoque em java poo e spring.'
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
