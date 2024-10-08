@@ -186,11 +186,4 @@ sections:
         textAlign: left
       text:
         textAlign: left
-backgroundImage:
-  type: BackgroundImage
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 100
-  url: /images/arte-arte-abstrata-arte-contemporanea-arte-moderna-2860804.jpg
 ---
