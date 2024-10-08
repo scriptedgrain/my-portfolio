@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Sobre
+title: Lucca Rosa
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
