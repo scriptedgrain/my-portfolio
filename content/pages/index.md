@@ -95,7 +95,7 @@ sections:
         - name: lastName
           label: Último sobrenome
           hideLabel: true
-          placeholder: Last Name
+          placeholder: Último sobrenome
           isRequired: false
           width: 1/2
           type: TextFormControl
