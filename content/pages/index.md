@@ -75,7 +75,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projetos
+    subtitle: ''
     title: Projetos
   - type: FeaturedPostsSection
     elementId: ''
