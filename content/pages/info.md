@@ -234,26 +234,22 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
-
-          * freelance @freelance.me
-
+        text: |
           **2018-2021**
 
-          * fullstack at this startup
+          *   fullstack at this startup
 
           **2015**
 
-          * senior front-end at this place
+          *   senior front-end at this place
 
           **2013**
 
-          * intern developer at a big company
+          *   intern developer at a big company
 
           **2011**
 
-          * flipping burgers
+          *   flipping burgers
         styles:
           self:
             textAlign: left
