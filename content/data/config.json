@@ -61,7 +61,7 @@
             "type": "ContactBlock",
             "title": "Contact details",
             "phoneNumber": "+55 (51) 99281-7229",
-            "phoneAltText": "My phone number",
+            "phoneAltText": "Meu celular",
             "email": "thisismyemail.@myemail.me",
             "emailAltText": "Meu email",
             "address": "312 Lovely Street, Brooklyn, NY, 123456",
