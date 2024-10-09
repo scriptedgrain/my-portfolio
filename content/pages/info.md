@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: "#### \U0001F44B Formado em Geologia pela UFRGS, migrei para área de tecnologia em busca de novos desafios os quais me fizeram descobrir uma grande afeição na área de programação. Ainda iniciante, tenho grande anseio em aprender e contribuir com novos colegas, construindo uma trajetória junto à empresa para que alcancemos nossos objetivos.\n\n"
+    text: "#### \U0001F44B Formado em Geologia pela UFRGS, decidi migrar para a área de Tecnologia da Informação em busca de novos desafios. Sempre tive afinidade com tecnologia e tive a oportunidade de explorar programação durante minha primeira formação acadêmica, o que me fez expandir meus caminhos. Embora esteja no início dessa nova jornada, estou motivado a aprender continuamente e contribuir com uma nova equipe, construindo uma trajetória de crescimento e colaborando para que a empresa alcance seus objetivos.\n\n\n\n"
     media:
       type: ImageBlock
       url: /images/Foto_Thiele Elissa-171 - Copia.jpg
