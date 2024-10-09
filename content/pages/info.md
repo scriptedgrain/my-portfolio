@@ -13,11 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: "\n\U0001F44B Formado em Geologia pela UFRGS, migrei para área de tecnologia em busca de novos desafios os quais me fizeram descobrir uma grande afeição na área de programação. Ainda iniciante, tenho grande anseio em aprender e contribuir com novos colegas, construindo uma trajetória junto à empresa para que alcancemos nossos objetivos. \n\n\n\n\n"
     media:
       type: ImageBlock
       url: /images/Foto_Thiele Elissa-171 - Copia.jpg
