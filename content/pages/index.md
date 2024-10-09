@@ -10,9 +10,11 @@ sections:
       Olá, me chamo lucca, sou um desenvolvedor back-end iniciante, com
       conhecimento em java poo e spring.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Aqui você encontra em que venho trabalhando recentemente — Alguns projetos
+      onde apliquei alguns conceitos básicos de programação orientada a objetos,
+      além de alguns frameworks como as collections java e SpringBoot. Você pode
+      me conhecer melhor na seção "Sobre", caso surja alguma dúvida ou outra
+      questão entre em contato comigo!
     styles:
       self:
         height: auto
