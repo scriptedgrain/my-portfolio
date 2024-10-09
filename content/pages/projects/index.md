@@ -61,7 +61,7 @@ bottomSections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Me fale sobre seu projeto
+          placeholder: Vamos construir um projeto juntos...
           isRequired: true
           width: full
           type: TextareaFormControl
