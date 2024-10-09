@@ -12,12 +12,33 @@ export default function FormBlock(props) {
         return null;
     }
 
-    function handleSubmit(event) {
+    async function handleSubmit(event) {
         event.preventDefault();
 
         const data = new FormData(formRef.current);
         const value = Object.fromEntries(data.entries());
-        alert(`Form data: ${JSON.stringify(value)}`);
+        
+        try {
+            // Modificação 2: Envio dos dados do formulário para o Formspree
+            const response = await fetch('https://formspree.io/f/mkgnwyoe', { 
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(value) // Transformação dos dados para o formato JSON
+            });
+
+            // Modificação 3: Verificação de resposta e mensagens de sucesso ou erro
+            if (response.ok) {
+                alert('Mensagem enviada com sucesso!');
+                formRef.current.reset(); // Limpeza do formulário após envio bem-sucedido
+            } else {
+                alert('Ocorreu um erro ao enviar a mensagem.');
+            }
+        } catch (error) {
+            console.error('Erro ao enviar o formulário:', error);
+            alert('Ocorreu um erro ao enviar a mensagem.');
+        }
     }
 
     return (
