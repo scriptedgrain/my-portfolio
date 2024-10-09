@@ -63,7 +63,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "Sobre mim",
                 "altText": "",
                 "url": "/info",
                 "showIcon": false,
