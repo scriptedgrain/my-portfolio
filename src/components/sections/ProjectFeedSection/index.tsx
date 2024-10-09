@@ -158,10 +158,10 @@ function ProjectsVariantD(props) {
                             </div>
                             {showReadMoreLink && (
                                 <div className="mt-8 md:mt-0 md:mx-8">
-                                    <a href={project.link} target="_blank" rel="noopener noreferrer" className="sb-component sb-component-block sb-component-button sb-component-button-secondary sb-component-button-icon">
+                                    <span className="sb-component sb-component-block sb-component-button sb-component-button-secondary sb-component-button-icon">
                                         <span className="sr-only">Read more</span>
                                         <ArrowUpRightIcon className="fill-current h-5 w-5 md:h-8 md:w-8" />
-                                    </a>
+                                    </span>
                                 </div>
                             )}
                         </div>
