@@ -60,6 +60,16 @@
                 "label": "GitHub",
                 "url": "https://github.com/scriptedgrain",
                 "altText": "Netlify templates"
+            },
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "/info",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "contacts": {
