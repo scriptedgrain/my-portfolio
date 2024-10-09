@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Banco Digital - POO
 colors: colors-a
 date: '2024-09-05'
-client: Awesome client
+client: ''
 description: >-
   Um sistema simples que demonstra como poderíamos utilizar os princípios da
   orientação a objetos em javaAlguns dos pilares da programação orientada a
