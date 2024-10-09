@@ -10,11 +10,12 @@ sections:
       Olá, me chamo lucca, sou um desenvolvedor back-end iniciante, com
       conhecimento em java poo e spring.
     subtitle: >-
-      Aqui você encontra em que venho trabalhando recentemente — Alguns projetos
+      Aqui você encontra no que venho trabalhando recentemente — Alguns projetos
       onde apliquei alguns conceitos básicos de programação orientada a objetos,
-      além de alguns frameworks como as collections java e SpringBoot. Você pode
-      me conhecer melhor na seção "Sobre", caso surja alguma dúvida ou outra
-      questão entre em contato comigo!
+      além de alguns frameworks como as collections java e SpringBoot e outras
+      ferramentas como Git/GitHub e PostgreSQL. Você pode me conhecer melhor na
+      seção "Sobre", caso surja alguma dúvida ou outra questão entre em contato
+      comigo!
     styles:
       self:
         height: auto
