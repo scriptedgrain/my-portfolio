@@ -1,11 +1,11 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/lR-removebg-preview.png",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "HOMe",
+        "title": "Lucca Rosa",
         "isTitleVisible": true,
         "primaryLinks": [
             {
@@ -60,6 +60,16 @@
                 "label": "GitHub",
                 "url": "https://github.com/scriptedgrain",
                 "altText": "Netlify templates"
+            },
+            {
+                "type": "Link",
+                "label": "Sobre mim",
+                "altText": "",
+                "url": "/info",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "contacts": {

@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: Lucca Rosa
 colors: colors-a
 sections:
   - elementId: ''
@@ -43,7 +43,7 @@ sections:
     elementId: ''
     actions:
       - type: Link
-        label: See all projects
+        label: Ver todos os projetos
         url: /projects
     showDate: false
     showDescription: true
