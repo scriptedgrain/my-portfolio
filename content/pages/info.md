@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: About
+title: Lucca Rosa - Sobre
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -13,14 +13,10 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: "<span style=\"font-size: 32px;\">  \U0001F44B Formado em Geologia pela UFRGS, decidi migrar para a área de Tecnologia da Informação em busca de novos desafios. Sempre tive afinidade com tecnologia e tive a oportunidade de explorar programação durante minha primeira formação acadêmica, o que me fez expandir meus caminhos. Embora esteja no início dessa nova jornada, estou motivado a aprender continuamente e contribuir com uma nova equipe, construindo uma trajetória de crescimento e colaborando para que a empresa alcance seus objetivos. </span>\n\n"
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/Foto_Thiele Elissa-171 - Copia.jpg
       altText: Hero image
     styles:
       self:
@@ -60,28 +56,21 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: 'Eu trabalhei nessas empresas:'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/OIP__1_-removebg-preview.png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/logo2.svg
+        url: >-
+          /images/218094510_1487113711640918_4386963637737645539_n-removebg-preview.png
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
-        url: /images/logo3.svg
+        url: /images/R.png
         altText: Logo three
         caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
     spacing: 3
     columns: 5
     aspectRatio: auto
@@ -124,15 +113,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
+            url: 'https://github.com/scriptedgrain'
         styles:
           self:
             textAlign: left
@@ -140,23 +121,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
+            url: 'https://www.linkedin.com/in/lucca-maia/'
         styles:
           self:
             textAlign: left
@@ -164,7 +129,7 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/'
+            url: 'https://www.instagram.com/luccamaia_r/'
         styles:
           self:
             textAlign: left
@@ -189,7 +154,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-    subtitle: 'You can find me here:'
+    subtitle: 'Você pode me encontrar aqui:'
   - type: DividerSection
     styles:
       self:
@@ -207,21 +172,22 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Java
       - type: Label
-        label: React
+        label: JavaScript
       - type: Label
-        label: Microsoft Office
+        label: CSS
       - type: Label
-        label: Next.js
+        label: HTML
       - type: Label
-        label: Netlify
+        label: Git
       - type: Label
-        label: Pancakes
+        label: GitHub
       - type: Label
-        label: C++
+        label: Scrum
       - type: Label
-        label: Swift
+        label: Spring Básico
+        url: ''
   - type: DividerSection
     styles:
       self:
@@ -239,7 +205,9 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      <luccamaiarosa@gmail.com>
+
+      [(51) 99281-7229 - WhatsApp](https://wa.me/qr/PABAUEEXRVV3H1)
   - type: DividerSection
     styles:
       self:
@@ -256,27 +224,20 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        subtitle: 'Experience:'
-        text: |-
-          **Current**
+        subtitle: 'Experiências:'
+        text: |+
+          **Iniciação Científica - 09/20 - 08/21**
 
-          * freelance @freelance.me
+          *   Bolsista
 
-          **2018-2021**
+          **Empresa júnior PetraJr - 02/22 - 08/22**
 
-          * fullstack at this startup
+          *   Consultor Comercial
 
-          **2015**
+          **Secretaria de Obras Públicas do Estado - 06/22 - 02/23**
 
-          * senior front-end at this place
+          *   Estagiário
 
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
         styles:
           self:
             textAlign: left
@@ -286,19 +247,16 @@ sections:
               - pb-0
               - pr-0
       - type: FeaturedItem
-        subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        subtitle: 'Educação:'
+        text: |+
+          **UFRGS - 2018-2023**
 
-          * ba computer sciense at a semi fancy school
+          *   Geologia
 
-          **2014**
+          **UNISINOS - 2023-2026**
 
-          * react certificate somewhere
+          *   Análise e Desenvolvimento de Sistemas
 
-          **2011**
-
-          * my highschool
         styles:
           self:
             textAlign: left
@@ -332,83 +290,5 @@ sections:
       title:
         textAlign: left
       subtitle:
-        textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: ContactSection
-    backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
-    colors: colors-f
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Tell me about your project
-          isRequired: true
-          width: full
-          type: TextareaFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        submitLabel:
-          textAlign: center
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-4
-          - mr-4
-        padding:
-          - pt-12
-          - pb-12
-          - pr-4
-          - pl-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
         textAlign: left
 ---

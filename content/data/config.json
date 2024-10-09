@@ -5,18 +5,23 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
+        "title": "HOMe",
         "isTitleVisible": true,
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
+                "label": "sobre",
                 "url": "/info"
             },
             {
                 "type": "Link",
-                "label": "Projetos",
-                "url": "/projects"
+                "label": "projetos",
+                "altText": "projetos",
+                "url": "/projects",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "socialLinks": [
@@ -46,7 +51,7 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Contact",
+                "label": "Contato",
                 "url": "mailto:luccamaiarosa@gmail.com",
                 "altText": ""
             },
