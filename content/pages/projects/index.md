@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: Projects
+title: Lucca Rosa - Projetos
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -31,23 +31,23 @@ styles:
 bottomSections:
   - type: ContactSection
     backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
+    title: "Vamos conversar... \U0001F4AC"
     colors: colors-f
     form:
       type: FormBlock
       elementId: sign-up-form
       fields:
         - name: firstName
-          label: First Name
+          label: Nome
           hideLabel: true
-          placeholder: First Name
+          placeholder: Nome
           isRequired: true
           width: 1/2
           type: TextFormControl
         - name: lastName
-          label: Last Name
+          label: Último Nome
           hideLabel: true
-          placeholder: Last Name
+          placeholder: Último Nome
           isRequired: false
           width: 1/2
           type: TextFormControl
@@ -61,16 +61,11 @@ bottomSections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: Me fale sobre seu projeto
           isRequired: true
           width: full
           type: TextareaFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: "Enviar \U0001F680"
       styles:
         submitLabel:
           textAlign: center
