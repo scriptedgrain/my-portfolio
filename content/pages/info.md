@@ -202,7 +202,7 @@ sections:
         borderStyle: solid
   - type: TextSection
     variant: variant-a
-    subtitle: 'Contact:'
+    subtitle: 'Contatos:'
     colors: colors-f
     text: |
       <luccamaiarosa@gmail.com>
