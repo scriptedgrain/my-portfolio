@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: Abstração de um bootcamp em Java POO
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
