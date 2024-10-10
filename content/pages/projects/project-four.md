@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Contador de fluxo
 date: '2024-05-23'
-client: Awesome client
+client: ''
 description: >-
   O intuito deste pequeno sistema é contar a quantidades de valores presentes em
   um intervalo fornecido pelo usuárioÉ exigido que o usuário passe dois valores
