@@ -17,4 +17,8 @@ media:
   type: ImageBlock
   url: /images/bg2.jpg
   altText: Project image
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
