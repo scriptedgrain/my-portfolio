@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Banco Digital - POO
+title: Banco Digital
 colors: colors-a
 date: '2024-09-05'
 client: ''
@@ -11,7 +11,8 @@ description: >-
   Polimorfismo.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: >-
+    /images/linhas-de-codigo-de-software-em-design-simples-colorido_251819-2338.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
