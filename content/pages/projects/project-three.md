@@ -4,7 +4,10 @@ title: Academia Digital
 colors: colors-a
 date: '2024-09-26'
 client: ''
-description: 'Utilizando Spring JPA e Spring Boot na prática, '
+description: >-
+  Neste projeto foi colocado em prática conhecimentos de Spring Framework e
+  Spring JPA em um app para inserção de dados de clientes de uma academia
+  fictícia.
 media:
   type: ImageBlock
   url: /images/bg3.jpg
