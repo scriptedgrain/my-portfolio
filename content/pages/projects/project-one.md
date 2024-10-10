@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Abstração de um bootcamp em Java POO
 colors: colors-a
-date: '2021-10-15'
+date: '2024-09-15'
 client: Awesome client
 description: >-
   Abstração de um bootcamp em Java POOUm sistema simples que demonstra como
