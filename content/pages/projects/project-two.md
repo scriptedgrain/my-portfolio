@@ -17,9 +17,6 @@ media:
   type: ImageBlock
   url: /images/bg2.jpg
   altText: Project image
-metaTags:
-  - type: MetaTag
-    property: 'og:url'
-    content: 'https://github.com/scriptedgrain'
+metaTags: []
 metaTitle: ''
 ---
