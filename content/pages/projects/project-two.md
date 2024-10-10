@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Banco Digital - POO
+title: Banco Digital
 colors: colors-a
 date: '2024-09-05'
 client: ''
