@@ -18,7 +18,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/Captura de tela 2024-10-10 002951.png
   altText: Project image
 ---
 <div style="text-align: center">###### [repositório](https://github.com/scriptedgrain/bootcamp-java)</div>
