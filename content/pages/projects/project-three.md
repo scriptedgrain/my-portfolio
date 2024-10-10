@@ -10,7 +10,7 @@ description: >-
   fictícia.
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Captura de tela 2024-10-10 003551.png
   altText: Project image
 featuredImage:
   type: ImageBlock
