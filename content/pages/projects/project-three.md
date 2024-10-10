@@ -14,7 +14,8 @@ media:
   altText: Project image
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: >-
+    /images/linhas-de-codigo-de-software-em-design-simples-colorido_251819-2338.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
