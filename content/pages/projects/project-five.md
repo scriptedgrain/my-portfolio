@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Modelando UML de um iPhone
 date: '2024-06-21'
-client: Awesome client
+client: ''
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
