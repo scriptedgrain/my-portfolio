@@ -5,11 +5,11 @@ date: '2024-05-23'
 client: ''
 description: >-
   O intuito deste pequeno sistema é contar a quantidades de valores presentes em
-  um intervalo fornecido pelo usuárioÉ exigido que o usuário passe dois valores
-  via teclado, de modo que o primeiro seja menor que o segundo. Caso não siga a
-  recomendação, uma exceção será lançada.Por fim, se corretamente inicializado,
-  será impresso na tela quantos valores estão presentes neste intervalo, um a
-  um, a partir do laço for
+  um intervalo fornecido pelo usuário. É exigido que o usuário passe dois
+  valores via teclado, de modo que o primeiro seja menor que o segundo. Caso não
+  siga a recomendação, uma exceção será lançada.Por fim, se corretamente
+  inicializado, será impresso na tela quantos valores estão presentes neste
+  intervalo, um a um, a partir do laço for
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
