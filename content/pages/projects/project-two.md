@@ -20,5 +20,5 @@ media:
 metaTags:
   - type: MetaTag
     property: 'og:url'
-    content: ''
+    content: 'https://github.com/scriptedgrain'
 ---
