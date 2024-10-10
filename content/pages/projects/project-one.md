@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Abstração de um bootcamp em Java POO
 colors: colors-a
 date: '2024-09-27'
-client: Awesome client
+client: ''
 description: >-
   Um sistema simples que demonstra como poderíamos utilizar os princípios da
   orientação a objetos em java para criar um bootcamp. Alguns dos pilares da
