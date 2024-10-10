@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Academia Digital
+title: Academia Digital com SpringBoot
 colors: colors-a
 date: '2024-09-26'
 client: ''
