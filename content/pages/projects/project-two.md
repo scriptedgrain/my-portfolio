@@ -16,7 +16,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Captura de tela 2024-10-10 004452.png
   altText: Project image
 metaTags: []
 metaTitle: ''
