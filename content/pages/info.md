@@ -4,7 +4,7 @@ title: Lucca Rosa - Sobre
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg4.jpg
+  url: /images/bg1.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -59,7 +59,7 @@ sections:
     subtitle: 'Eu trabalhei nessas empresas:'
     images:
       - type: ImageBlock
-        url: /images/OIP__1_-removebg-preview.png
+        url: /images/R (1).png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
