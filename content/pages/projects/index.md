@@ -27,7 +27,7 @@ projectFeed:
         - pb-12
   actions:
     - type: Link
-      label: Learn more
+      label: ''
       altText: ''
       url: 'https://github.com/scriptedgrain'
       showIcon: false
