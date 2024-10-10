@@ -21,5 +21,5 @@ metaTags:
   - type: MetaTag
     property: 'og:url'
     content: 'https://github.com/scriptedgrain'
-metaTitle: 'https://github.com/scriptedgrain'
+metaTitle: ''
 ---
