@@ -12,7 +12,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: >-
-    /images/linhas-de-codigo-de-software-em-design-simples-colorido_251819-2338.avif
+    /images/linhas-de-codigo-de-software-em-design-simples-colorido_251819-2338.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
