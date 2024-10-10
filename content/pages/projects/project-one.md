@@ -21,6 +21,13 @@ media:
   url: /images/Captura de tela 2024-10-10 002951.png
   altText: Porção da classe Dev
   caption: Porção da classe Dev
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
 <div style="text-align: center">###### [repositório](https://github.com/scriptedgrain/bootcamp-java)</div>
 
