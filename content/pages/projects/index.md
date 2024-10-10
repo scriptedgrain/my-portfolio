@@ -29,7 +29,7 @@ projectFeed:
     - type: Link
       label: ''
       altText: ''
-      url: 'https://github.com/scriptedgrain'
+      url: ''
       showIcon: false
       icon: arrowRight
       iconPosition: right
