@@ -5,9 +5,12 @@ colors: colors-a
 date: '2021-10-15'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Abstração de um bootcamp em Java POOUm sistema simples que demonstra como
+  poderíamos utilizar os princípios da orientação a objetos em java para criar
+  um bootcampAlguns dos pilares da programação orientada a objetos foram
+  utilizados, como: Abstração, Encapsulamento, Herança e Polimorfismo.Java
+  CollectionsTambém foram utilizados alguns princípios do framework Java
+  Collections, como o Set<> para organização dos dados.
 featuredImage:
   type: ImageBlock
   url: >-
