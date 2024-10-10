@@ -9,7 +9,7 @@ description: >-
   valores via teclado, de modo que o primeiro seja menor que o segundo. Caso não
   siga a recomendação, uma exceção será lançada.Por fim, se corretamente
   inicializado, será impresso na tela quantos valores estão presentes neste
-  intervalo, um a um, a partir do laço for
+  intervalo, um a um, a partir do laço for.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
