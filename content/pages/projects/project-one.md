@@ -19,7 +19,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Captura de tela 2024-10-10 002951.png
-  altText: Project image
+  altText: Porção da classe Dev
   caption: Porção da classe Dev
 ---
 <div style="text-align: center">###### [repositório](https://github.com/scriptedgrain/bootcamp-java)</div>
