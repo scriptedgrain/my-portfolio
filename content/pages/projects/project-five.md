@@ -32,5 +32,5 @@ backgroundImage:
   opacity: 100
 bottomSections: []
 ---
-###### [🔗Repositório](https://github.com/scriptedgrain/modelando-iPhone-UML)
+<div style="text-align: left">###### [🔗Repositório](https://github.com/scriptedgrain/modelando-iPhone-UML)</div>
 
