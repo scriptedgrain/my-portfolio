@@ -11,7 +11,8 @@ description: >-
   Polimorfismo.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: >-
+    /images/linhas-de-codigo-de-software-em-design-simples-colorido_251819-2338.avif
   altText: Project thumbnail image
 media:
   type: ImageBlock
